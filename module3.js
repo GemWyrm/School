@@ -1,1 +1,1 @@
-console.log('staging test');
+console.log('commit test');
